@@ -1,0 +1,27 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.blog-title{
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 3px;
+  border-bottom: 1px solid black;
+ 
+}
+
+.blog-title h1{
+  display: inline-block;
+  text-align: left;
+  background: black;
+  margin-right: 75%;
+  color: white;
+  margin
+   }
+.blog-title h3{
+  display: inline-block;
+  text-align: block;
+  padding: 15px;
+  position: relative;
+  left: 200px;
+}
