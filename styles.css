@@ -8,13 +8,12 @@ body{
   background-attachment: fixed;
  }
 .main-container{
+  max-width: 75%;
   margin-left: 15%;
   margin-right: 15%;
   box-sizing: border-box;
-  /* border: 1px solid rgb(114, 111, 111); */
   border-radius: 4px;
   background: rgb(236, 230, 223, 0.8);
-
 }
 p{
   font-family: 'Open Sans', sans-serif;
@@ -41,6 +40,7 @@ p{
   position: absolute;
   top: 70px;
   left: 35%;
+  right:auto;
   padding: 15px;
   margin: 0 auto;
 }
@@ -84,7 +84,7 @@ a:hover{
   margin-top: 15px;
   margin-right: 45px;
 }
-.sec-1 figcaption{
+.sec-1 figcaption,.sec-2 figcaption{
   padding-top: 10px;
   text-align: center;
 }
@@ -96,6 +96,7 @@ a:hover{
  -webkit-box-shadow: 0px 1px 10px 1px #000000; 
  box-shadow: 0px 1px 10px 1px #000000;
 }
+
 
 
 
