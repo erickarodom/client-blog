@@ -1,8 +1,7 @@
 *{
   margin: 0;
   padding: 0;
-  
-}
+ }
 body{
   background-image: url(images/background/background-1523115_640.jpg);
   background-attachment: fixed;
@@ -18,7 +17,6 @@ body{
 p{
   font-family: 'Open Sans', sans-serif;
 }
-
 .blog-title{
   font-family: 'Montserrat', sans-serif;
   letter-spacing: 3px;
@@ -38,7 +36,6 @@ p{
 .blog-title h2{
   text-transform: capitalize;
   position: absolute;
-
   top: 70px;
   left: 35%;
   right:auto;
@@ -64,7 +61,6 @@ p{
   -webkit-box-shadow: 1.5px 1.5px 1.5px 0px rgba(0,0,0,0.2); 
   box-shadow: 1.5px 1.5px 1.5px 0px rgba(0,0,0,0.2);
 }
-
 a:hover{
   background: rgb(49, 49, 49);
   color:#f2f2f2;
@@ -72,14 +68,11 @@ a:hover{
   -webkit-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.2); 
   box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.2);
 }
-
-
  .article-container h2, h2 + p{
   font-family: 'Montserrat', sans-serif;
   text-transform: capitalize; 
   text-align: center;
 }
-
 .sec-1, .sec-2{
   margin: 35px 50px 35px 35px;
 }
@@ -105,7 +98,6 @@ a:hover{
  -webkit-box-shadow: 0px 1px 10px 1px #000000; 
  box-shadow: 0px 1px 10px 1px #000000;
 }
-
 .sec-2 .fig-2 img{
   width: 100%;
   padding: 10px;
@@ -134,7 +126,6 @@ footer input{
   width: 60px;
   height: 35px;
 }
-
 footer a {
   padding: 5px;
   margin: 10px;
