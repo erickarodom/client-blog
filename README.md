@@ -19,4 +19,4 @@ Appearance wise, I feel the look of my page is 1998. I would like to say that is
 
 Saved my work, pushed to Github from home and went through the html preview github process and submitted my first client blog.
 
-
+https://htmlpreview.github.io/?https://github.com/erickarodom/client-blog/blob/master/index.html
